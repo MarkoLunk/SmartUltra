@@ -1,0 +1,3 @@
+streamlit
+groq
+beatifulsoup4
