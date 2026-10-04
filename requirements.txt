@@ -1,4 +1,0 @@
-'''text
-streamlit 
-groq
-pip install groq
